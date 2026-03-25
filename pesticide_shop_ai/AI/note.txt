@@ -1,0 +1,6 @@
+0: 'Đốm rong',
+1: 'Cháy lá',
+2: 'Đốm lá',
+3: 'Không có bệnh',
+
+py -m pip install flask torch numpy opencv-python ultralytics
